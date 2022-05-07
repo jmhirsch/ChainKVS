@@ -8,7 +8,7 @@
 - Failure detection using FCheck, data is synchronized to servers once the chain has reorganized itself
 
 ## More info & Spec
-- see [here](https://github.com/jmhirsch/ChainKVS/blob/main/ChainedKVS%20Spec.pdf) for the full spec
+- See [here](https://github.com/jmhirsch/ChainKVS/blob/main/ChainedKVS%20Spec.pdf) for the full spec
 - Developed for CPSC 416
 
 ## Running
