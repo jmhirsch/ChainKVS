@@ -6,6 +6,8 @@
 - Up to 16 chain-replicated servers
 - PUTs are sent to the head server, GETs are retrieved from the tail server
 - Failure detection using FCheck, data is synchronized to servers once the chain has reorganized itself
+- Server joining and ordering is maintained by the coord node
+- Traces can be viewed by uploading the shiviz file [here](https://bestchai.bitbucket.io/shiviz/index.html)
 
 ## More info & Spec
 - See [here](https://github.com/jmhirsch/ChainKVS/blob/main/ChainedKVS%20Spec.pdf) for the full spec
